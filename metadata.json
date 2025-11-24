@@ -1,0 +1,7 @@
+{
+  "name": "Intervue AI",
+  "description": "Real-time voice interview simulation with an AI avatar, providing instant feedback to help you ace your next job interview.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
